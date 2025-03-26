@@ -1,2 +1,2 @@
 # Road-accident-dashboard
-This is a project to build a dashboard providing insghts on the circumstances of accidents in the year 2021.
+This is a project about insightful exploratory data analysis about data on customer behaviour.
