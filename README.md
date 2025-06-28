@@ -1,2 +1,3 @@
-# Basic EDA in Python using seaborn library
-This is a project about insightful exploratory data analysis about data on customer behaviour.
+# Data Science Projects
+This is a repository containing my data analysis, feature engineering and machine learning notebooks.
+
